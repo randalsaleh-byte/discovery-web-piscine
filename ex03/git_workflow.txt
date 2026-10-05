@@ -1,0 +1,4 @@
+1.Edit: Make changes or create files in the working directory.
+2. Staging: Use 'git add <file>' to prepare changes for the next snapshot.
+3. Commit: Use 'git commit -m "message"' to permanently save the snapshot in history.
+4. Push: Use 'git push origin main' to upload commits to the remote repository on GitHub.
